@@ -1,4 +1,4 @@
-#!.venv
+#!.venv/bin/python
 import argparse
 import cv2
 from pathlib import Path
